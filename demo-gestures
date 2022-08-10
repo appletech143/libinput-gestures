@@ -1,0 +1,4 @@
+gesture swipe up 3 xdotool key super+alt+Up
+gesture swipe down 3 xdotool key super+alt+Down
+gesture swipe right 3 xdotool key super+alt+Left
+gesture swipe left 3 xdotool key super+alt+Right     
